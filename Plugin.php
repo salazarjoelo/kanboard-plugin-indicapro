@@ -1,6 +1,6 @@
 <?php
 
-namespace Kanboard\Plugin\Indicateurs;
+namespace Kanboard\Plugin\Indicadores;
 
 use Kanboard\Core\Plugin\Base;
 use Kanboard\Core\Security\Role;
@@ -37,7 +37,7 @@ class Plugin extends Base
 
     public function getPluginAuthor()
     {
-        return 'Jade Tavernier, Pascal Rigaux';
+        return 'Jade Tavernier, Pascal Rigaux Modificado por Joel Salazar';
     }
 
     public function getPluginVersion()
@@ -47,6 +47,6 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/UnivParis1/kanboard-plugin-indicateurs';
+        return 'https://github.com/salazarjoelo/kanboard-plugin-indicapro';
     }
 }
